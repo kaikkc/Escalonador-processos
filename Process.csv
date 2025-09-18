@@ -1,0 +1,6 @@
+id,nome,prioridade,ciclos_necessarios,recurso_necessario
+1,ProcAlta1,1,3,
+2,ProcAlta2,1,2,DISCO
+3,ProcMedia1,2,4,
+4,ProcBaixa1,3,5,DISCO
+5,ProcAlta3,1,1,
