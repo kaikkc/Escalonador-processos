@@ -4,7 +4,7 @@ Disciplina: Algoritmos e Estrutura de Dados I
 Professor: Dimmy Magalhães  
 Integrantes: Kaik Araújo Cabral 
 
-Link do Repositório:  
+Link do Repositório:  https://github.com/kaikkc/Escalonador-processos
 
 Descrição: Implementação de um escalonador de processos usando listas encadeadas customizadas em Java, com prevenção de inanição e gerenciamento de bloqueio por recursos.
 
